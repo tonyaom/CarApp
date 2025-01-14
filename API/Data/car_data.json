@@ -1,0 +1,102 @@
+[
+    {
+        "Id": "4e19ed1e-6a4b-46da-905f-c4e7dff0872e",
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Year": 2021,
+        "Color": "Red",
+        "PurchasePrice": 30000.0,
+        "LicensePlateNumber": "ABC123",
+        "RegistrationExpiredDate": "2025-12-31"
+    },
+    {
+        "Id": "bdbf0c58-c87f-4574-b974-670e3028a364",
+        "Make": "Ford",
+        "Model": "F-150",
+        "Year": 2019,
+        "Color": "Black",
+        "PurchasePrice": 35000.0,
+        "LicensePlateNumber": "XYZ789",
+        "RegistrationExpiredDate": "2024-06-15"
+    },
+    {
+        "Id": "a8c03a35-9a39-4740-97f9-20bb50e55a09",
+        "Make": "Honda",
+        "Model": "Civic",
+        "Year": 2020,
+        "Color": "Silver",
+        "PurchasePrice": 22000.0,
+        "LicensePlateNumber": "HND456",
+        "RegistrationExpiredDate": "2026-03-20"
+    },
+    {
+        "Id": "f28a2a1d-4d56-4607-9d38-d63189c8b87b",
+        "Make": "Chevrolet",
+        "Model": "Malibu",
+        "Year": 2022,
+        "Color": "White",
+        "PurchasePrice": 25000.0,
+        "LicensePlateNumber": "CHE678",
+        "RegistrationExpiredDate": "2026-08-01"
+    },
+    {
+        "Id": "e0d3a9c8-2859-47b1-935e-0d5b92c0fa47",
+        "Make": "BMW",
+        "Model": "X5",
+        "Year": 2021,
+        "Color": "Blue",
+        "PurchasePrice": 40000.0,
+        "LicensePlateNumber": "BMW321",
+        "RegistrationExpiredDate": "2025-09-30"
+    },
+    {
+        "Id": "7a8f542f-4467-4d4e-bcc6-64954f61f8fd",
+        "Make": "Ford",
+        "Model": "F-150",
+        "Year": 2020,
+        "Color": "Red",
+        "PurchasePrice": 35000.0,
+        "LicensePlateNumber": "FRD654",
+        "RegistrationExpiredDate": "2023-12-31"
+    },
+    {
+        "Id": "83e53038-1157-47f1-b3ca-8ca442bc8c06",
+        "Make": "Honda",
+        "Model": "Civic",
+        "Year": 2019,
+        "Color": "Blue",
+        "PurchasePrice": 20000.0,
+        "LicensePlateNumber": "HND987",
+        "RegistrationExpiredDate": "2023-11-15"
+    },
+    {
+        "Id": "85b5378b-d65d-45f0-8b4e-9d879b81d7e2",
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Year": 2022,
+        "Color": "Black",
+        "PurchasePrice": 30000.0,
+        "LicensePlateNumber": "TOY123",
+        "RegistrationExpiredDate": "2024-05-10"
+    },
+    {
+        "Id": "5d6cc05d-e9a6-44b3-b44d-96ed8b318617",
+        "Make": "BMW",
+        "Model": "X5",
+        "Year": 2021,
+        "Color": "Silver",
+        "PurchasePrice": 40000.0,
+        "LicensePlateNumber": "BMW654",
+        "RegistrationExpiredDate": "2023-10-25"
+    },
+    {
+        "Id": "177b58f3-84b3-471a-a09b-961f47be8e4b",
+        "Make": "Chevrolet",
+        "Model": "Malibu",
+        "Year": 2020,
+        "Color": "White",
+        "PurchasePrice": 25000.0,
+        "LicensePlateNumber": "CHE321",
+        "RegistrationExpiredDate": "2023-09-15"
+    }
+]

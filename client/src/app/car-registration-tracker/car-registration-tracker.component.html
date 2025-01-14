@@ -1,0 +1,18 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">License Plate Number</th>
+      <th scope="col">Registration Expired Date</th>
+      <th scope="col">Registration Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for (car of updatedCarData; track car.id) {
+      <tr>
+        <td>{{car.licensePlateNumber}}</td>
+        <td>{{car.registrationExpiredDate}}</td> 
+        <td>{{car.registrationExpiryStatus}}</td> 
+      </tr>      
+      }    
+  </tbody>
+</table>
